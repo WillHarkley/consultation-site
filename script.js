@@ -8,7 +8,7 @@ function toggleDarkMode() {
 }
 
 const img = document.createElement('img');
-img.src = 'images/your-photo.jpg'; // Replace with your actual image path
+img.src = 'William_Harkley.JPG'; 
 img.alt = 'Photo of Will';
 img.style.width = '40%'; // Or set a specific width like '200px'
 img.style.borderRadius = '12px';
